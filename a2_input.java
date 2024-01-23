@@ -6,8 +6,8 @@ public class a2_input {
         int a=sc.nextInt();
         String b=sc.nextLine();
         // if you want only character this is the code
-        // char b= sc.next().charAt(0);
-        double c=sc.nextDouble();
+        char c= sc.next().charAt(0);
+        // double d=sc.nextDouble();
         System.out.println(a);
         System.out.println(b);
         System.out.println(c);
